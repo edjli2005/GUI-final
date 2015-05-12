@@ -100,8 +100,6 @@ public class MainActivity extends ListActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        final MediaPlayer mp = MediaPlayer.create(context, R.raw.blop);
-
         if (id == R.id.action_settings) {
             Intent goToLogin = new Intent(MainActivity.this, LoginActivity.class);
             MainActivity.this.startActivity(goToLogin);

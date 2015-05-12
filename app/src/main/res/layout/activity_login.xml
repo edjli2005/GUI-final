@@ -47,9 +47,9 @@
                 android:text="@string/fa_heart"/>
 
             <Button android:id="@+id/doubletap_button" style="?android:textAppearanceSmall"
-            android:layout_width="match_parent" android:layout_height="wrap_content"
-            android:text="@string/doubletap_button"
-            android:textStyle="bold" />
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/doubletap_button"
+                android:textStyle="bold" />
 
             <Button android:id="@+id/longpress_button" style="?android:textAppearanceSmall"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
