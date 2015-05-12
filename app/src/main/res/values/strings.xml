@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GUIFinalProject</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="icon_heart">&#xf004;</string>
+    <string name="action_heart">Like</string>
+
+</resources>
